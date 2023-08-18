@@ -44,3 +44,5 @@ atlassian-ide-plugin.xml
 .gradletasknamecache
 
 cached-antora-playbook.yml
+
+*.log
